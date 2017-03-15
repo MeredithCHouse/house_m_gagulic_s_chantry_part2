@@ -1,0 +1,632 @@
+header h2, h3
+{
+	font-family: 'Lobster', cursive;
+	color: #fff;
+}
+
+
+h1, h2, h3, h4, p
+{
+	font-family: 'Raleway', sans-serif;
+	color: #383838;
+}
+
+h1
+{
+	text-align: center;
+}
+
+.title-bar
+{
+	background-color: #252525;
+	min-width: 100%;
+}
+
+#header
+{
+	background: url('../images/banner.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+}
+
+#header h2, h3
+{
+	color: #fff;
+}
+
+#mainNav
+{
+	background-color: #252525;
+}
+
+#mainNav ul li
+{
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#mainNav ul li a
+{
+	color: #fff;
+}
+
+#mainNav ul li a:hover
+{
+	transition: color 0.5s ease;
+	color: #898989;
+}
+
+#logo
+{
+	position: absolute;
+}
+
+.img
+{
+	margin-top: 10%;
+}
+
+.info
+{
+	margin-top: 30%;
+	text-align: center;
+}
+
+.centerTxt
+{
+	text-align: center;
+}
+
+.headerCapt
+{
+	color: #FFFFFF;
+}
+.headerCapt h2
+{
+	font-size: 50px;
+}
+
+.headerCapt h3
+{
+	font-size: 30px;
+}
+.circle
+{
+	border-radius: 100%;
+}
+
+.bg
+{
+	background: url('../images/bckground-mobile.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+
+}
+
+#imgRow
+{
+	margin-top: 5%;
+}
+
+
+#info2
+{
+	margin-top: 15%;
+}
+
+
+#video
+{
+	margin-top: 15%;
+}
+
+#hvrVideo:hover
+{
+	cursor: pointer;
+}
+
+#info2 a
+{
+	color: #006696;
+}
+
+#info2 a:hover
+{
+	transition: color 0.5s ease;
+	color: #399cc7;
+}
+
+.links
+{
+	margin-bottom: 10%;
+}
+
+#mainFooter
+{
+	background-color: #252525;
+	height: 200px;
+	text-align: center;
+	height: 300px;
+}
+
+#footerNav ul li
+{
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#footerNav ul li a
+{
+	color: #fff;
+}
+
+#footerNav ul li a:hover
+{
+	transition: color 0.5s ease;
+	color: #898989;
+}
+
+footer h2, a
+{
+	color: #fff;
+	margin-top: 1%;
+}
+
+#bckTo:hover
+{
+	transition: color 0.5s ease;
+	color: #898989;
+}
+
+#aboutHeader
+{
+	background: url('../images/banner2.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+}
+
+#about
+{
+	margin-top: 10%;
+}
+
+
+
+#info5
+{
+	margin-top: 10%;
+}
+
+.bg4
+{
+	background: url('../images/banner3-mobile.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+
+}
+
+.bg2
+{
+	background: url('../images/banner5-mobile.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+
+}
+
+#bird
+{
+	margin-top: 10%;
+}
+
+#hist
+{
+	margin-top: 10%;
+}
+
+#info7
+{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#info8
+{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#info9
+{
+	margin-top: 5%;
+	margin-bottom: 5%;
+}
+
+#contactHeader
+{
+	background: url('../images/banner4.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+}
+.contactInfo h2
+{
+		color: #006696;
+}
+
+#contactSect
+{
+	margin-bottom: 10%;
+}
+
+
+#bg3
+{
+	background: url('../images/banner6.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+	margin-top: 10%;
+}
+
+
+
+.icons
+{
+  width: 8%;
+  padding: 3px;
+}
+
+/*gallery*/
+#gallery
+{
+	margin-bottom: 5%;
+}
+
+.gallery img
+{
+    width: 100px;
+    height: 100px;
+		cursor: pointer;
+		margin-bottom: 5%;
+		margin-top: 8%;
+}
+
+.image
+{
+	margin-top: 8%;
+	width: 500px;
+	height: 500px;
+	border: none;
+}
+
+.volunteers h3
+{
+	color: #006696;
+		padding: 30px;
+}
+
+.volunteers
+{
+	padding: 30px;
+}
+
+
+.sched
+{
+	margin-top: 10%;
+}
+.sched ul li
+{
+	list-style-type: none;
+	text-decoration: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+.sched h1
+{
+	margin-bottom: 5%
+}
+
+#rates
+{
+	margin-bottom: 10%;
+}
+
+th, td
+{
+		font-family: 'Raleway', sans-serif;
+
+}
+
+#donate ul li
+{
+	list-style-type: none;
+	font-family: 'Raleway', sans-serif;
+}
+
+#donations
+{
+	margin-top: 5%;
+}
+
+#donateBtn
+{
+	background-color: #c7e4ea;
+	color: #252525;
+	font-family: 'Raleway', sans-serif;
+	padding: 20px;
+	margin-top: 5%;
+}
+
+#donateBtn:hover
+{
+	transition: background-color 0.5s ease;
+	background-color: #ddfbff;
+}
+
+footer
+{
+	margin-top: 5%;
+}
+
+.bgColour
+{
+	background-color: #d2eff5;
+	padding: 10px;
+}
+
+.news
+{
+	margin-bottom: 5%:
+}
+
+.news h1
+{
+	margin-bottom: 5%;
+}
+
+.Evnts a
+{
+	color: #252525;
+	padding: 10px;
+}
+
+.Evnts h1
+{
+	margin-top: 5%;
+	margin-bottom: 10%:
+}
+
+.Evnts h2
+{
+	color: #006696;
+}
+
+/*Map*/
+.map-wrapper
+{
+	width: 50%;
+	height: 400px;
+}
+
+.geocode-header
+{
+	font-size: 20px;
+}
+
+button
+{
+	cursor: pointer;
+	 margin-left: 12px;
+	 background-color: #dff3fc;
+	 padding: 8px;
+	 border-radius: 50px;
+ }
+
+.address
+{
+	width: 350px;
+}
+
+
+
+
+@media screen and (min-width: 64em)
+{
+
+	.headerCapt h2
+	{
+		font-size: 60px;
+	}
+
+	#mainNav
+	{
+		background-color: #252525;
+		text-align: center;
+	}
+
+	#mainNav ul li
+	{
+		display: inline;
+		text-decoration: none;
+		list-style-type: none;
+	}
+
+	#mainNav ul li a
+	{
+		color: #FFFFFF;
+		padding: 10px;
+		font-size: 20px;
+		margin-left: 20px;
+	}
+
+	.info
+{
+	margin-top: 15%;
+	margin-right: 30%;
+}
+
+#info1 h1
+{
+	margin-top: 10%;
+}
+
+#info1 h1
+{
+	margin-bottom: 5%;
+}
+
+#info2
+{
+	margin-top: 10%;
+}
+
+#video
+{
+	margin-top: 10%;
+}
+
+#footerNav
+{
+	padding: 20px;
+}
+
+#footerNav ul li
+{
+	display: inline;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+#footerNav ul li a
+{
+	color: #FFFFFF;
+	padding: 40px;
+	font-size: 20px;
+
+}
+
+.icons
+{
+  width: 3%;
+  padding: 3px;
+}
+
+.bg2
+{
+	background: url('../images/banner5.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	margin: 0 auto;
+	text-align: center;
+	min-height: 100%;
+	max-width: 100%;
+	position: relative;
+
+}
+
+
+}
+
+#img5
+{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+#img6
+{
+	margin-top: 10%;
+	margin-bottom: 10%;
+}
+
+
+.bgColour a
+{
+	color: #252525;
+	padding: 10px;
+}
+#dj
+{
+	margin-bottom: 5%;
+}
+
+@media screen and (min-width: 25.1875em)
+{
+	.bg
+	{
+		background: url('../images/bckground.jpg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		margin: 0 auto;
+		text-align: center;
+		min-height: 100%;
+		max-width: 100%;
+		position: relative;
+
+	}
+
+	.bg4
+	{
+		background: url('../images/banner3.jpg');
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		margin: 0 auto;
+		text-align: center;
+		min-height: 100%;
+		max-width: 100%;
+		position: relative;
+
+	}
+
+
+}
